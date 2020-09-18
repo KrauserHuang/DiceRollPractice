@@ -15,6 +15,7 @@
 		4F279ED225145EB70084AE46 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F279ED025145EB70084AE46 /* LaunchScreen.storyboard */; };
 		4F279EDD25145EB70084AE46 /* DiceRollPracticeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F279EDC25145EB70084AE46 /* DiceRollPracticeTests.swift */; };
 		4F279EE825145EB70084AE46 /* DiceRollPracticeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F279EE725145EB70084AE46 /* DiceRollPracticeUITests.swift */; };
+		4F279EFC251499BF0084AE46 /* dice.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4F279EFB251499BE0084AE46 /* dice.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		4F279EE325145EB70084AE46 /* DiceRollPracticeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DiceRollPracticeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4F279EE725145EB70084AE46 /* DiceRollPracticeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiceRollPracticeUITests.swift; sourceTree = "<group>"; };
 		4F279EE925145EB70084AE46 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4F279EFB251499BE0084AE46 /* dice.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = dice.mp3; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				4F279ECB25145EB40084AE46 /* Main.storyboard */,
 				4F279ECE25145EB70084AE46 /* Assets.xcassets */,
 				4F279ED025145EB70084AE46 /* LaunchScreen.storyboard */,
+				4F279EFB251499BE0084AE46 /* dice.mp3 */,
 				4F279ED325145EB70084AE46 /* Info.plist */,
 			);
 			path = DiceRollPractice;
@@ -234,6 +237,7 @@
 				4F279ED225145EB70084AE46 /* LaunchScreen.storyboard in Resources */,
 				4F279ECF25145EB70084AE46 /* Assets.xcassets in Resources */,
 				4F279ECD25145EB40084AE46 /* Main.storyboard in Resources */,
+				4F279EFC251499BF0084AE46 /* dice.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
